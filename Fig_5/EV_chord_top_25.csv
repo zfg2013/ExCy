@@ -1,0 +1,26 @@
+ExoEasy,Fujifilm,UC,ExCy,Pathways
+0,10,4,40,membrane
+0,14,0,32,protein-containing complex
+0,14,0,29,membrane-enclosed lumen
+0,14,0,29,organelle lumen
+0,14,0,29,intracellular organelle lumen
+0,6,0,28,cell periphery
+0,0,0,26,endomembrane system
+0,6,0,26,plasma membrane
+0,7,0,21,extracellular region
+4,6,0,20,vesicle
+0,11,0,20,cytosol
+0,7,0,19,extracellular space
+0,12,0,18,nuclear lumen
+3,0,0,15,organelle membrane
+0,11,0,15,nucleoplasm
+0,0,0,14,endoplasmic reticulum
+0,6,0,14,extracellular exosome
+0,6,0,14,extracellular organelle
+0,6,0,14,extracellular vesicle
+0,6,0,14,extracellular membrane-bounded organelle
+3,0,0,12,cytoplasmic vesicle
+3,0,0,12,intracellular vesicle
+0,4,0,11,catalytic complex
+0,0,0,10,organelle subcompartment
+0,6,0,10,cell junction

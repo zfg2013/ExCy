@@ -1,0 +1,44 @@
+Index,ExoEasy,Fujifilm,UC,ExCy,Genes
+1,4,0,0,9,secretory vesicle
+2,8,0,4,54,membrane
+3,4,0,0,14,cytoplasmic vesicle
+4,4,0,0,14,intracellular vesicle
+5,0,15,0,35,intracellular organelle lumen
+6,0,15,0,35,membrane-enclosed lumen
+7,0,15,0,35,organelle lumen
+8,0,13,0,25,nuclear lumen
+9,0,10,0,21,nucleoplasm
+10,0,12,0,29,non-membrane-bounded organelle
+11,0,11,0,25,cytosol
+12,0,12,0,29,intracellular non-membrane-bounded organelle
+13,0,7,0,11,cytoskeleton
+14,0,12,0,38,protein-containing complex
+15,0,8,0,23,extracellular space
+16,0,6,0,17,extracellular exosome
+17,0,6,0,17,extracellular membrane-bounded organelle
+18,0,6,0,17,extracellular vesicle
+19,0,6,0,17,extracellular organelle
+20,0,6,0,16,cell junction
+21,0,8,0,25,extracellular region
+22,0,6,0,5,nuclear protein-containing complex
+23,0,5,0,11,nucleolus
+24,0,4,0,12,catalytic complex
+25,0,6,0,25,vesicle
+26,0,0,4,33,cell periphery
+27,0,0,4,30,plasma membrane
+28,0,0,0,31,endomembrane system
+29,0,0,0,19,endoplasmic reticulum
+30,0,0,0,12,endoplasmic reticulum membrane
+31,0,0,0,21,organelle membrane
+32,0,0,0,12,endoplasmic reticulum subcompartment
+33,0,0,0,12,nuclear outer membrane-endoplasmic reticulum membrane network
+34,0,0,0,13,organelle subcompartment
+35,0,0,0,11,envelope
+36,0,0,0,11,organelle envelope
+37,0,0,0,10,membrane protein complex
+38,0,0,0,11,mitochondrion
+39,0,0,0,7,cytoplasmic vesicle membrane
+40,0,0,0,7,vesicle membrane
+41,0,0,0,7,plasma membrane region
+42,0,0,0,9,bounding membrane of organelle
+43,0,0,0,7,Golgi apparatus
