@@ -1,6 +1,6 @@
 ## Peptide-based capture-and-release purification of extracellular vesicles and statistical algorithm enabled quality assessment 
 
-link: 
+link: https://www.biorxiv.org/content/10.1101/2024.02.06.578050v1.full
 
 In our publication, we developed a statistical metric called the ExoQuality Index (EQI) that measures extracellular vesicle homogeneity when given a dataframe containing experimental characterization. Furthermore, this repository also contains the notebook and code to generate each figure from R or Python. 
 
